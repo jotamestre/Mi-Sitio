@@ -1,0 +1,211 @@
+.especial-color{
+    color: #673AB7;
+}
+
+.splash{
+    width: 100%;
+    height: 100vh;
+    background: url(../img/fondoneon.jpg) center center fixed;
+    background-size: cover;
+}
+
+.splash h1{
+    font-family: 'Poppins', sans-serif;
+    margin-top: 380px;
+    font-size: 75px;
+    color: white;
+    background: #1C003A;
+    display: inline-block;
+    padding: 15px;
+    letter-spacing: -6px;
+    border-radius: 10px;
+}
+
+.splash p{
+    font-family: 'Poppins', sans-serif;
+    font-size: 25px;
+    color: #fff;
+    background: #1C003A;
+    padding: 8px;
+    display: inline-block;
+    margin-bottom: 200px;
+    letter-spacing: -2px;
+    border-radius: 10px;
+}
+
+.intro-social{
+    list-style: none;
+    margin-top: 70px;
+}
+
+.intro-social li{
+    display: inline-block;
+    font-size: 35px;
+    margin: 0 15px;
+}
+
+.intro-social a{
+    color: white;
+}
+
+.intro-social a:hover{
+    color: #673AB7;
+}
+
+.centrado{
+    text-align: center;
+}
+
+.espacios{
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.prof-img{
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+    margin-top: 105px;
+    margin-right: 40px;
+    float: left;
+}
+
+.by-me{
+    text-align: left;
+    margin-top: 115px;
+    font-size: 20px;
+}
+
+#description{
+    font-family: 'Poppins', sans-serif;
+    color: #666;
+}
+
+.col-four{
+    width: 30%;
+    box-sizing: inherit;
+    padding-top: 50px;
+    padding: 0 20px;
+    text-align: center;
+}
+
+.certificate{
+    list-style: none;
+}
+
+.logo{
+    height: 40px;
+    margin-top: 4px;
+    margin-left: -53px;
+    
+}
+
+.link{
+    text-decoration: none;
+    color: #666;
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    display: inline-block;
+    padding-top: 20px;
+}
+
+.link:hover{
+    color: #673AB7;
+}
+
+.fuente{
+    font-family: 'Poppins', sans-serif;
+    font-size: 30px;
+    color: #673AB7;
+}
+
+#habilities{
+    margin-left: 26%;
+    margin-top: 2%;
+}
+
+.skills{
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    color: #666;
+    padding-top: 20px;
+    text-transform: uppercase;
+    list-style: none;
+    text-align: center;
+    padding-bottom: 80px;
+}
+
+#redes{
+    background: #ebebeb;
+}
+
+.contacto p{
+    font-family: 'Poppins', sans-serif;
+    font-size: 35px;
+    color: #673AB7;
+    text-transform: capitalize;
+}
+
+.ctc{
+    font-size: 20px; 
+    font-family: 'Poppins', sans-serif;
+    color: #666;
+    margin-left: 335px;
+    margin-top: 30px;
+}
+
+.loguitos i{
+    margin-top: 100px;
+    font-size: 40px;
+    color: #673AB7;
+}
+
+.loguitos h5{
+    font-family: 'Poppins', sans-serif;
+    color: #666;
+    font-size: 20px; 
+    margin-top: 10px;
+}
+
+.loguitos p{
+    font-family: 'Poppins', sans-serif;
+    color: #666;
+    font-size: 20px; 
+    margin-top: 10px;
+}
+
+#footer{
+    background: #1C003A;
+    height: 90px;
+}
+
+.footer-social{
+    list-style: none;
+    margin-left: 90px;
+}
+
+.footer-social li{
+    display: inline-block;
+    font-size: 30px;
+    padding: 10px;
+    margin-top: 9px;
+}
+
+.footer-social a{
+    color: white;
+}
+
+.footer-social a:hover{
+    color: #673AB7;
+}
+
+.copy span{
+    display: inline-block;
+    box-sizing: inherit;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    text-align: left;
+    margin-top: 35px;
+    margin-left: 496px;
+    font-size: 10px;
+}
